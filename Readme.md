@@ -1,6 +1,5 @@
 # Simple Animation done using React
 
-> Frontend pagination example using React with Hooks
 
 ## Available Scripts
 
